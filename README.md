@@ -1,4 +1,4 @@
-HOW TO START 
+HOW TO START  😀	 
 
 
 
@@ -10,7 +10,10 @@ HOW TO START
 
 if vulnerabilities arise: 
 
-      npm audit fix 
+         npm audit fix 
+     
 5. to run dev
 
        npm run dev 
+
+🤠 good to go!
